@@ -13,9 +13,16 @@ Getting Started
 	
 
 	#. Selenium/Web Driver - copy paste all the lib files from the downloads to apache jmeter lib folder.
-	#. 	Go to this `Index of /114.0.5735.90/ <https://chromedriver.storage.googleapis.com/index.html?path=114.0.5735.90/>`_ website and click “chromedriver_win32.zip”.
+	
+	#. If you are using Windows 32-bit, Go to this `Index of /114.0.5735.90/ <https://chromedriver.storage.googleapis.com/index.html?path=114.0.5735.90/>`_ website and click “chromedriver_win32.zip”.
 
 		.. image:: _static/installselenium/install-2.png
+
+	#. If you are using Windows 64-bit, Go to this `<https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.204/win64/chrome-win64.zip>`_ and download.
+
+	    .. image:: _static/installselenium/install11.png
+
+
 
 	#. Chromedriver - Download the exe and paste the path under the licenses.
 	#. Restart Jmeter >  Add Thread Group.

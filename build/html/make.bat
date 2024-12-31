@@ -7,7 +7,7 @@ REM Command file for Sphinx documentation
 if "%SPHINXBUILD%" == "" (
 	set SPHINXBUILD=sphinx-build
 )
-set SOURCEDIR=source
+set SOURCEDIR=D:\Updated-Jmeter-Selenium\documentation\source
 set BUILDDIR=build
 
 %SPHINXBUILD% >NUL 2>NUL
